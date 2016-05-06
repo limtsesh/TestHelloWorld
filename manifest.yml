@@ -1,0 +1,12 @@
+applications:
+- disk_quota: 512M
+  host: TestHelloWorld
+  name: TestHelloWorld
+  path: .
+  domain: eu-gb.mybluemix.net
+  instances: 1
+  memory: 64M
+#  buildpack: liberty-for-java-new
+  
+  
+  
