@@ -6,7 +6,7 @@ applications:
   domain: eu-gb.mybluemix.net
   instances: 1
   memory: 64M
-  buildpack: liberty-for-java-new
-  
+  buildpack: liberty-for-java
+
   
   
